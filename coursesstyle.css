@@ -1,0 +1,28 @@
+body {
+   
+    background-color: rgb(255, 221, 146);
+}
+h1 {
+    color:rgb(7, 61, 97);
+    
+}
+h2 {
+    color:rgb(255, 109, 133);
+}
+a:link {
+    color: blueviolet;
+}
+a:hover{
+    color: brown;
+
+}
+.x {
+    display: inline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+a {
+    text-decoration: none;
+}
